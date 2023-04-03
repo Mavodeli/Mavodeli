@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You can find more about me on my <a href="https://mavode.li" target="_blank">Website</a> :)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mavodeli&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Mavodeli/Mavodeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
