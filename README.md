@@ -2,7 +2,7 @@
 
 You can find more about me on my <a href="https://mavode.li" target="_blank">Website</a> :)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavodeli&layout=compact&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavodeli&count_private=true&layout=compact&theme=github_dark">
 
 <!--
 **Mavodeli/Mavodeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
